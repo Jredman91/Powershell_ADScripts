@@ -1,0 +1,9 @@
+powershell -file "c:\PSscriptsForAD\CreateOUsInAD.ps1"
+powershell -file "c:\PSscriptsForAD\Create-BulkADUsers-CSV204d.ps1"
+powershell -file "c:\PSscriptsForAD\Create-BulkADUsers-CSV221d.ps1"
+powershell -file "c:\PSscriptsForAD\Create-BulkADUsers-CSV222d.ps1"
+powershell -file "c:\PSscriptsForAD\Create-BulkADUsers-CSV223d.ps1"
+powershell -file "c:\PSscriptsForAD\Create-BulkADcomputers-CSV204.ps1
+powershell -file "c:\PSscriptsForAD\Create-BulkADcomputers-CSV221.ps1
+powershell -file "c:\PSscriptsForAD\Create-BulkADcomputers-CSV222.ps1
+powershell -file "c:\PSscriptsForAD\Create-BulkADcomputers-CSV223.ps1
